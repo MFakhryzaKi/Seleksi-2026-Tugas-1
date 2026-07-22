@@ -1,0 +1,2864 @@
+{
+  "source_url": "https://mobile-legends.fandom.com/api.php?action=parse&page=List_of_heroes&prop=text%7Cwikitext&format=json&formatversion=2",
+  "scraped_from": "Fandom MediaWiki parse API",
+  "hero_count": 133,
+  "heroes": [
+    {
+      "hero_order": 1,
+      "hero_name": "Miya, the Moonlight Archer",
+      "hero_alias": "the Moonlight Archer",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Azrya Woodlands",
+      "prices": [
+        "10800 Battle Points",
+        "399 tickets"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 2,
+      "hero_name": "Balmond, the Bloody Beast",
+      "hero_alias": "the Bloody Beast",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Damage",
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "6500 Battle Points",
+        "299 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 3,
+      "hero_name": "Saber, the Wandering Sword",
+      "hero_alias": "the Wandering Sword",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Charge",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "Roaming"
+      ],
+      "region_of_origin": "Laboratory 1718",
+      "prices": [
+        "6500 Battle Points",
+        "299 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 4,
+      "hero_name": "Alice, the Queen of Blood",
+      "hero_alias": "the Queen of Blood",
+      "roles": [
+        "Tank",
+        "Mage"
+      ],
+      "specialties": [
+        "Charge",
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "region_of_origin": "Abyss",
+      "prices": [
+        "15000 Battle Points",
+        "399 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 5,
+      "hero_name": "Nana, the Sweet Leonin",
+      "hero_alias": "the Sweet Leonin",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Poke",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Azrya Woodlands",
+      "prices": [
+        "6500 Battle Points",
+        "299 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 6,
+      "hero_name": "Tigreal, the Warrior of Dawn",
+      "hero_alias": "the Warrior of Dawn",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "6500 Battle Points",
+        "299 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 7,
+      "hero_name": "Alucard, the Demon Hunter",
+      "hero_alias": "the Demon Hunter",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "15000 Battle Points",
+        "399 tickets"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 8,
+      "hero_name": "Karina, the Shadow Blade",
+      "hero_alias": "the Shadow Blade",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Finisher",
+        "Magic Damage"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Azrya Woodlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 9,
+      "hero_name": "Akai, the Panda Warrior",
+      "hero_alias": "the Panda Warrior",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Guard",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 tickets"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 10,
+      "hero_name": "Franco, the Frozen Warrior",
+      "hero_alias": "the Frozen Warrior",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Initiator",
+        "Control"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "32000 Battle Points",
+        "749 tickets"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 11,
+      "hero_name": "Bane, the Frozen King",
+      "hero_alias": "the Frozen King",
+      "roles": [
+        "Fighter",
+        "Mage"
+      ],
+      "specialties": [
+        "Push",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "6500 Battle Points",
+        "299 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 12,
+      "hero_name": "Bruno, the Protector",
+      "hero_alias": "the Protector",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "15000 Battle Points",
+        "399 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 13,
+      "hero_name": "Clint, the West Justice",
+      "hero_alias": "the West Justice",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "15000 Battle Points",
+        "399 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 14,
+      "hero_name": "Rafaela, the Wings of Holiness",
+      "hero_alias": "the Wings of Holiness",
+      "roles": [
+        "Support"
+      ],
+      "specialties": [
+        "Regen",
+        "Guard"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "6500 Battle Points",
+        "299 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 15,
+      "hero_name": "Eudora, the Lightning Weaver",
+      "hero_alias": "the Lightning Weaver",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Control",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "2000 Battle Points",
+        "399 Diamonds"
+      ],
+      "release_date": "2016"
+    },
+    {
+      "hero_order": 16,
+      "hero_name": "Zilong, the Spear of Dragon",
+      "hero_alias": "the Spear of Dragon",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "15000 Battle Points",
+        "399 tickets"
+      ],
+      "release_date": "9 September 2016"
+    },
+    {
+      "hero_order": 17,
+      "hero_name": "Fanny, the Blade Dancer",
+      "hero_alias": "the Blade Dancer",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "30 September 2016"
+    },
+    {
+      "hero_order": 18,
+      "hero_name": "Layla, the Energy Gunner",
+      "hero_alias": "the Energy Gunner",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "2000 Battle Points",
+        "299 Diamonds"
+      ],
+      "release_date": "23 September 2016"
+    },
+    {
+      "hero_order": 19,
+      "hero_name": "Minotaur, the Son of Minos",
+      "hero_alias": "the Son of Minos",
+      "roles": [
+        "Tank",
+        "Support"
+      ],
+      "specialties": [
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "15000 Battle Points",
+        "399 Diamonds"
+      ],
+      "release_date": "14 October 2016"
+    },
+    {
+      "hero_order": 20,
+      "hero_name": "Lolita, the Steel Elf",
+      "hero_alias": "the Steel Elf",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "specialties": [
+        "Guard",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "28 October 2016"
+    },
+    {
+      "hero_order": 21,
+      "hero_name": "Hayabusa, the Crimson Shadow",
+      "hero_alias": "the Crimson Shadow",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "4 November 2016"
+    },
+    {
+      "hero_order": 22,
+      "hero_name": "Freya, the Valkyrie",
+      "hero_alias": "the Valkyrie",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Chase",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "599 Diamonds"
+      ],
+      "release_date": "November 2016"
+    },
+    {
+      "hero_order": 23,
+      "hero_name": "Gord, the Professor of the Mystics",
+      "hero_alias": "the Professor of the Mystics",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Poke",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "24000 Battle Points",
+        "499 tickets"
+      ],
+      "release_date": "November 2016"
+    },
+    {
+      "hero_order": 24,
+      "hero_name": "Natalia, the Bright Claw",
+      "hero_alias": "the Bright Claw",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "Roaming"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "December 2016"
+    },
+    {
+      "hero_order": 25,
+      "hero_name": "Kagura, the Onmyouji Master",
+      "hero_alias": "the Onmyouji Master",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Poke",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "December 2016"
+    },
+    {
+      "hero_order": 26,
+      "hero_name": "Chou, the Kung Fu Boy",
+      "hero_alias": "the Kung Fu Boy",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Chase",
+        "Control"
+      ],
+      "lane_recommendations": [
+        "EXP Lane",
+        "Roaming"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "December 2016"
+    },
+    {
+      "hero_order": 27,
+      "hero_name": "Sun, the Monkey King",
+      "hero_alias": "the Monkey King",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Push",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "December 2016"
+    },
+    {
+      "hero_order": 28,
+      "hero_name": "Alpha, the Blade of Enmity",
+      "hero_alias": "the Blade of Enmity",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Charge",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Laboratory 1718",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "January 2017"
+    },
+    {
+      "hero_order": 29,
+      "hero_name": "Ruby, the Little Red Hood",
+      "hero_alias": "the Little Red Hood",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 30,
+      "hero_name": "Yi Sun-shin, the Paenlong Legend",
+      "hero_alias": "the Paenlong Legend",
+      "roles": [
+        "Assassin",
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Chase"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 31,
+      "hero_name": "Moskov, the Spear of Quiescence",
+      "hero_alias": "the Spear of Quiescence",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Chase"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "399 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 32,
+      "hero_name": "Johnson, the Wild Engine",
+      "hero_alias": "the Wild Engine",
+      "roles": [
+        "Tank",
+        "Support"
+      ],
+      "specialties": [
+        "Support",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "14 March 2017"
+    },
+    {
+      "hero_order": 33,
+      "hero_name": "Cyclops, the Starsoul Magician",
+      "hero_alias": "the Starsoul Magician",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Poke",
+        "Control"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Nebula Chronorift",
+      "prices": [
+        "15000 Battle Points",
+        "399 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 34,
+      "hero_name": "Estes, the Moon Elf King",
+      "hero_alias": "the Moon Elf King",
+      "roles": [
+        "Support"
+      ],
+      "specialties": [
+        "Regen",
+        "Guard"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Azrya Woodlands",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 35,
+      "hero_name": "Hilda, the Power of Megalith",
+      "hero_alias": "the Power of Megalith",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "specialties": [
+        "Damage",
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 36,
+      "hero_name": "Aurora, the Maiden of the Glacier",
+      "hero_alias": "the Maiden of the Glacier",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Crowd Control",
+        "Poke"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 37,
+      "hero_name": "Lapu-Lapu, the Courageous Blade",
+      "hero_alias": "the Courageous Blade",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Chase",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Vonetis Sea",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 38,
+      "hero_name": "Vexana, the Shimmer of Hope",
+      "hero_alias": "the Shimmer of Hope",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Poke",
+        "Control"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 39,
+      "hero_name": "Roger, the Dire Wolf Hunter",
+      "hero_alias": "the Dire Wolf Hunter",
+      "roles": [
+        "Fighter",
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "25 June 2017"
+    },
+    {
+      "hero_order": 40,
+      "hero_name": "Karrie, the Lost Star",
+      "hero_alias": "the Lost Star",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Alaghat",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 41,
+      "hero_name": "Gatotkaca, the Mighty Legend",
+      "hero_alias": "the Mighty Legend",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "specialties": [
+        "Crowd Control",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Nebula Chronorift",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "July 2017"
+    },
+    {
+      "hero_order": 42,
+      "hero_name": "Harley, the Mage Genius",
+      "hero_alias": "the Mage Genius",
+      "roles": [
+        "Assassin",
+        "Mage"
+      ],
+      "specialties": [
+        "Burst",
+        "Poke"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "Mid Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "29 July 2017"
+    },
+    {
+      "hero_order": 43,
+      "hero_name": "Irithel, the Jungle Heart",
+      "hero_alias": "the Jungle Heart",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Azrya Woodlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "15 August 2017"
+    },
+    {
+      "hero_order": 44,
+      "hero_name": "Grock, the Fortress Titan",
+      "hero_alias": "the Fortress Titan",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "specialties": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 45,
+      "hero_name": "Argus, the Dark Angel",
+      "hero_alias": "the Dark Angel",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Charge",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Abyss",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 46,
+      "hero_name": "Odette, the Swan Princess",
+      "hero_alias": "the Swan Princess",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Burst",
+        "Poke"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "20 lucky gems",
+        "120 hero fragments"
+      ],
+      "release_date": "29 September 2017"
+    },
+    {
+      "hero_order": 47,
+      "hero_name": "Lancelot, the Blade of Roses",
+      "hero_alias": "the Blade of Roses",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 48,
+      "hero_name": "Diggie, the Timekeeper",
+      "hero_alias": "the Timekeeper",
+      "roles": [
+        "Support"
+      ],
+      "specialties": [
+        "Guard",
+        "Poke"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "19 November 2017"
+    },
+    {
+      "hero_order": 49,
+      "hero_name": "Hylos, the Grand Warden",
+      "hero_alias": "the Grand Warden",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Guard",
+        "Initiator"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 50,
+      "hero_name": "Zhask, the King of Swarms",
+      "hero_alias": "the King of Swarms",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Chase",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Kastiya",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2017"
+    },
+    {
+      "hero_order": 51,
+      "hero_name": "Helcurt, the Shadowbringer",
+      "hero_alias": "the Shadowbringer",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Push",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "Roaming"
+      ],
+      "region_of_origin": "Abyss",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "24 November 2017"
+    },
+    {
+      "hero_order": 52,
+      "hero_name": "Pharsa, the Wings of Vengeance",
+      "hero_alias": "the Wings of Vengeance",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Burst",
+        "Poke"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "27 December 2017"
+    },
+    {
+      "hero_order": 53,
+      "hero_name": "Lesley, the Deadly Sniper",
+      "hero_alias": "the Deadly Sniper",
+      "roles": [
+        "Marksman",
+        "Assassin"
+      ],
+      "specialties": [
+        "Finisher",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "January 2018"
+    },
+    {
+      "hero_order": 54,
+      "hero_name": "Jawhead, the Steel Sweetheart",
+      "hero_alias": "the Steel Sweetheart",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Charge",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Laboratory 1718",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "January 2018"
+    },
+    {
+      "hero_order": 55,
+      "hero_name": "Angela, the Bunnylove",
+      "hero_alias": "the Bunnylove",
+      "roles": [
+        "Support"
+      ],
+      "specialties": [
+        "Guard",
+        "Support"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Laboratory 1718",
+      "prices": [
+        "24000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "6 February 2018"
+    },
+    {
+      "hero_order": 56,
+      "hero_name": "Gusion, the Holy Blade",
+      "hero_alias": "the Holy Blade",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "Mid Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2018"
+    },
+    {
+      "hero_order": 57,
+      "hero_name": "Valir, the Son of Flames",
+      "hero_alias": "the Son of Flames",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Damage",
+        "Guard"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2018"
+    },
+    {
+      "hero_order": 58,
+      "hero_name": "Martis, the Ashura King",
+      "hero_alias": "the Ashura King",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Finisher",
+        "Charge"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Nebula Chronorift",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2018"
+    },
+    {
+      "hero_order": 59,
+      "hero_name": "Uranus, the Aesthereal Defender",
+      "hero_alias": "the Aesthereal Defender",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Celestial Palace",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "2018"
+    },
+    {
+      "hero_order": 60,
+      "hero_name": "Hanabi, the Scarlet Flower",
+      "hero_alias": "the Scarlet Flower",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "17 April 2018"
+    },
+    {
+      "hero_order": 61,
+      "hero_name": "Chang'e, the Moon Palace Immortal",
+      "hero_alias": "the Moon Palace Immortal",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Poke",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds",
+        "120 hero fragments"
+      ],
+      "release_date": "30 May 2018"
+    },
+    {
+      "hero_order": 62,
+      "hero_name": "Kaja, the Nazar King",
+      "hero_alias": "the Nazar King",
+      "roles": [
+        "Support",
+        "Fighter"
+      ],
+      "specialties": [
+        "Control",
+        "Charge"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Celestial Palace",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "25 April 2018"
+    },
+    {
+      "hero_order": 63,
+      "hero_name": "Selena, the Abyssal Witch",
+      "hero_alias": "the Abyssal Witch",
+      "roles": [
+        "Assassin",
+        "Mage"
+      ],
+      "specialties": [
+        "Initiator",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Mid Lane",
+        "Roaming"
+      ],
+      "region_of_origin": "Abyss",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "10 July 2018"
+    },
+    {
+      "hero_order": 64,
+      "hero_name": "Aldous, the Soul Contractor",
+      "hero_alias": "the Soul Contractor",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Burst",
+        "Support"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "24 July 2018"
+    },
+    {
+      "hero_order": 65,
+      "hero_name": "Claude, the Master Thief",
+      "hero_alias": "the Master Thief",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Burst",
+        "Chase"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Los Pecados",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "7 August 2018"
+    },
+    {
+      "hero_order": 66,
+      "hero_name": "Vale, the Windtalker",
+      "hero_alias": "the Windtalker",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Burst",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "29 January 2019"
+    },
+    {
+      "hero_order": 67,
+      "hero_name": "Leomord, the Sworn Sword",
+      "hero_alias": "the Sworn Sword",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Chase",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "3 October 2018"
+    },
+    {
+      "hero_order": 68,
+      "hero_name": "Lunox, the Twilight Goddess",
+      "hero_alias": "the Twilight Goddess",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Burst",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "4 September 2018"
+    },
+    {
+      "hero_order": 69,
+      "hero_name": "Hanzo, the Akuma Ninja",
+      "hero_alias": "the Akuma Ninja",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Burst",
+        "Poke"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "4 December 2018"
+    },
+    {
+      "hero_order": 70,
+      "hero_name": "Belerick, the Guard of Nature",
+      "hero_alias": "the Guard of Nature",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Crowd Control",
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "17 August 2018"
+    },
+    {
+      "hero_order": 71,
+      "hero_name": "Kimmy, the Hoverjet Outrider",
+      "hero_alias": "the Hoverjet Outrider",
+      "roles": [
+        "Marksman",
+        "Mage"
+      ],
+      "specialties": [
+        "Damage",
+        "Magic Damage"
+      ],
+      "lane_recommendations": [
+        "Mid Lane",
+        "Gold Lane"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "23 October 2018"
+    },
+    {
+      "hero_order": 72,
+      "hero_name": "Thamuz, the Lord Lava",
+      "hero_alias": "the Lord Lava",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Chase",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Abyss",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "18 September 2018"
+    },
+    {
+      "hero_order": 73,
+      "hero_name": "Harith, the Time Traveler",
+      "hero_alias": "the Time Traveler",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Chase",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane",
+        "Jungle"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "6 November 2018"
+    },
+    {
+      "hero_order": 74,
+      "hero_name": "Minsitthar, the Courageous Warrior",
+      "hero_alias": "the Courageous Warrior",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "EXP Lane",
+        "Roaming"
+      ],
+      "region_of_origin": "Vonetis Sea",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "20 November 2018"
+    },
+    {
+      "hero_order": 75,
+      "hero_name": "Kadita, the Ocean Goddess",
+      "hero_alias": "the Ocean Goddess",
+      "roles": [
+        "Mage",
+        "Assassin"
+      ],
+      "specialties": [
+        "Burst",
+        "Charge"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Vonetis Sea",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "18 December 2018"
+    },
+    {
+      "hero_order": 76,
+      "hero_name": "Faramis, the Soul Binder",
+      "hero_alias": "the Soul Binder",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "specialties": [
+        "Guard",
+        "Charge"
+      ],
+      "lane_recommendations": [
+        "Mid Lane",
+        "Roaming"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "18 May 2019"
+    },
+    {
+      "hero_order": 77,
+      "hero_name": "Badang, the Tribal Warrior",
+      "hero_alias": "the Tribal Warrior",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Charge",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Vonetis Sea",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "15 January 2019"
+    },
+    {
+      "hero_order": 78,
+      "hero_name": "Khufra, the Desert Tyrant",
+      "hero_alias": "the Desert Tyrant",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Initiator",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "12 March 2019"
+    },
+    {
+      "hero_order": 79,
+      "hero_name": "Granger, the Death Chanter",
+      "hero_alias": "the Death Chanter",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Burst",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "23 April 2019"
+    },
+    {
+      "hero_order": 80,
+      "hero_name": "Guinevere, the Ms. Violet",
+      "hero_alias": "the Ms. Violet",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "21 February 2019"
+    },
+    {
+      "hero_order": 81,
+      "hero_name": "Esmeralda, the Astrologer",
+      "hero_alias": "the Astrologer",
+      "roles": [
+        "Tank",
+        "Mage"
+      ],
+      "specialties": [
+        "Regen",
+        "Mixed Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "3 April 2019"
+    },
+    {
+      "hero_order": 82,
+      "hero_name": "Terizla, the Executioner",
+      "hero_alias": "the Executioner",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "specialties": [
+        "Burst",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Abyss",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "4 June 2019"
+    },
+    {
+      "hero_order": 83,
+      "hero_name": "X.Borg, the Firaga Armor",
+      "hero_alias": "the Firaga Armor",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Regen",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "9 August 2019"
+    },
+    {
+      "hero_order": 84,
+      "hero_name": "Ling, the Cyan Finch",
+      "hero_alias": "the Cyan Finch",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "24 November 2019"
+    },
+    {
+      "hero_order": 85,
+      "hero_name": "Dyrroth, the Prince of the Abyss",
+      "hero_alias": "the Prince of the Abyss",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Charge",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "region_of_origin": "Abyss",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "25 June 2019"
+    },
+    {
+      "hero_order": 86,
+      "hero_name": "Lylia, the Little Witch",
+      "hero_alias": "the Little Witch",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Push",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "23 July 2019"
+    },
+    {
+      "hero_order": 87,
+      "hero_name": "Baxia, the Mystic Tortoise",
+      "hero_alias": "the Mystic Tortoise",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Support",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "Roaming"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "8 October 2019"
+    },
+    {
+      "hero_order": 88,
+      "hero_name": "Masha, the Wild-oats Fist",
+      "hero_alias": "the Wild-oats Fist",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "specialties": [
+        "Push",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "17 September 2019"
+    },
+    {
+      "hero_order": 89,
+      "hero_name": "Wanwan, the Agile Tiger",
+      "hero_alias": "the Agile Tiger",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "26 November 2019"
+    },
+    {
+      "hero_order": 90,
+      "hero_name": "Silvanna, the Imperial Knightess",
+      "hero_alias": "the Imperial Knightess",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Initiator",
+        "Magic Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "17 December 2019"
+    },
+    {
+      "hero_order": 91,
+      "hero_name": "Cecilion, the Embrace of Night",
+      "hero_alias": "the Embrace of Night",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Poke",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "12 February 2020"
+    },
+    {
+      "hero_order": 92,
+      "hero_name": "Carmilla, the Shadow of Twilight",
+      "hero_alias": "the Shadow of Twilight",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "specialties": [
+        "Crowd Control",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "17 January 2020"
+    },
+    {
+      "hero_order": 93,
+      "hero_name": "Atlas, the Ocean Gladiator",
+      "hero_alias": "the Ocean Gladiator",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Crowd Control",
+        "Initiator"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "20 March 2020"
+    },
+    {
+      "hero_order": 94,
+      "hero_name": "Popol and Kupa, the Icefield Companions",
+      "hero_alias": "the Icefield Companions",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Push",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "Gold Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "21 April 2020"
+    },
+    {
+      "hero_order": 95,
+      "hero_name": "Yu Zhong, the Black Dragon",
+      "hero_alias": "the Black Dragon",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Regen",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "16 June 2020"
+    },
+    {
+      "hero_order": 96,
+      "hero_name": "Luo Yi, the Yin-yang Geomancer",
+      "hero_alias": "the Yin-yang Geomancer",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Support",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "16 May 2020"
+    },
+    {
+      "hero_order": 97,
+      "hero_name": "Benedetta, the Shadow Ranger",
+      "hero_alias": "the Shadow Ranger",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "specialties": [
+        "Chase",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "7 November 2020"
+    },
+    {
+      "hero_order": 98,
+      "hero_name": "Khaleed, the Desert Scimitar",
+      "hero_alias": "the Desert Scimitar",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Damage",
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "7 August 2020"
+    },
+    {
+      "hero_order": 99,
+      "hero_name": "Barats, the Dino Rider",
+      "hero_alias": "the Dino Rider",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "specialties": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "18 September 2020"
+    },
+    {
+      "hero_order": 100,
+      "hero_name": "Brody, the Lone Star",
+      "hero_alias": "the Lone Star",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Burst",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "16 October 2020"
+    },
+    {
+      "hero_order": 101,
+      "hero_name": "Yve, the Astrowarden",
+      "hero_alias": "the Astrowarden",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Burst",
+        "Poke"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Northern Vale",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "12 February 2021"
+    },
+    {
+      "hero_order": 102,
+      "hero_name": "Mathilda, the Swift Plume",
+      "hero_alias": "the Swift Plume",
+      "roles": [
+        "Support",
+        "Assassin"
+      ],
+      "specialties": [
+        "Initiator",
+        "Guard"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Los Pecados",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "12 December 2020"
+    },
+    {
+      "hero_order": 103,
+      "hero_name": "Paquito, the Heavenly Fist",
+      "hero_alias": "the Heavenly Fist",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "15 January 2021"
+    },
+    {
+      "hero_order": 104,
+      "hero_name": "Gloo, the Swamp Spirits",
+      "hero_alias": "the Swamp Spirits",
+      "roles": [
+        "Tank"
+      ],
+      "specialties": [
+        "Regen",
+        "Control"
+      ],
+      "lane_recommendations": [
+        "Roaming",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Azrya Woodlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "16 April 2021"
+    },
+    {
+      "hero_order": 105,
+      "hero_name": "Beatrix, the Dawnbreak Soldier",
+      "hero_alias": "the Dawnbreak Soldier",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "19 March 2021"
+    },
+    {
+      "hero_order": 106,
+      "hero_name": "Phoveus, the Chains of Sin",
+      "hero_alias": "the Chains of Sin",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Regen",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "11 May 2021"
+    },
+    {
+      "hero_order": 107,
+      "hero_name": "Natan, the Spacetime Walker",
+      "hero_alias": "the Spacetime Walker",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Burst",
+        "Magic Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "23 July 2021"
+    },
+    {
+      "hero_order": 108,
+      "hero_name": "Aulus, the Warrior of Ferocity",
+      "hero_alias": "the Warrior of Ferocity",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Damage",
+        "Charge"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "The Barren Lands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "31 August 2021"
+    },
+    {
+      "hero_order": 109,
+      "hero_name": "Aamon, the Duke of Shards",
+      "hero_alias": "the Duke of Shards",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Magic Damage"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "26 October 2021"
+    },
+    {
+      "hero_order": 110,
+      "hero_name": "Valentina, the Prophetess of the Night",
+      "hero_alias": "the Prophetess of the Night",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Burst",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "25 November 2021"
+    },
+    {
+      "hero_order": 111,
+      "hero_name": "Edith, the Ancient Guard",
+      "hero_alias": "the Ancient Guard",
+      "roles": [
+        "Tank",
+        "Marksman"
+      ],
+      "specialties": [
+        "Control",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "EXP Lane",
+        "Roaming"
+      ],
+      "region_of_origin": "Sanctum Island",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "24 December 2021"
+    },
+    {
+      "hero_order": 112,
+      "hero_name": "Floryn, the Budding Hope",
+      "hero_alias": "the Budding Hope",
+      "roles": [
+        "Support"
+      ],
+      "specialties": [
+        "Poke",
+        "Guard"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "22 September 2021"
+    },
+    {
+      "hero_order": 113,
+      "hero_name": "Yin, the Martial Genius",
+      "hero_alias": "the Martial Genius",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "specialties": [
+        "Burst",
+        "Control"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "18 January 2022"
+    },
+    {
+      "hero_order": 114,
+      "hero_name": "Melissa, the Cursed Needle",
+      "hero_alias": "the Cursed Needle",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "22 February 2022"
+    },
+    {
+      "hero_order": 115,
+      "hero_name": "Xavier, the Defier of Light",
+      "hero_alias": "the Defier of Light",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Damage",
+        "Guard"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "22 March 2022"
+    },
+    {
+      "hero_order": 116,
+      "hero_name": "Julian, the Scarlet Raven",
+      "hero_alias": "the Scarlet Raven",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "specialties": [
+        "Chase",
+        "Magic Damage"
+      ],
+      "lane_recommendations": [
+        "Jungle",
+        "EXP Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "24 May 2022"
+    },
+    {
+      "hero_order": 117,
+      "hero_name": "Fredrinn, the Rogue Appraiser",
+      "hero_alias": "the Rogue Appraiser",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "specialties": [
+        "Damage",
+        "Chase"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Los Pecados",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "12 August 2022"
+    },
+    {
+      "hero_order": 118,
+      "hero_name": "Joy, the Flash of Miracle",
+      "hero_alias": "the Flash of Miracle",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Azrya Woodlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "18 November 2022"
+    },
+    {
+      "hero_order": 119,
+      "hero_name": "Novaria, the Star Rebel",
+      "hero_alias": "the Star Rebel",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Burst",
+        "Poke"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "16 May 2023"
+    },
+    {
+      "hero_order": 120,
+      "hero_name": "Arlott, the Lone Lancer",
+      "hero_alias": "the Lone Lancer",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "specialties": [
+        "Charge",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "14 February 2023"
+    },
+    {
+      "hero_order": 121,
+      "hero_name": "Ixia, the Arclight Outlaw",
+      "hero_alias": "the Arclight Outlaw",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "8 July 2023"
+    },
+    {
+      "hero_order": 122,
+      "hero_name": "Nolan, the Cosmic Wayfinder",
+      "hero_alias": "the Cosmic Wayfinder",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Eruditio",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "30 September 2023"
+    },
+    {
+      "hero_order": 123,
+      "hero_name": "Cici, the Buoyant Performer",
+      "hero_alias": "the Buoyant Performer",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Damage",
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "27 December 2023"
+    },
+    {
+      "hero_order": 124,
+      "hero_name": "Chip, the Phase Technician",
+      "hero_alias": "the Phase Technician",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "specialties": [
+        "Support",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Laboratory 1718",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "16 March 2024"
+    },
+    {
+      "hero_order": 125,
+      "hero_name": "Zhuxin, the Beacon of Spirits",
+      "hero_alias": "the Beacon of Spirits",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "29 June 2024"
+    },
+    {
+      "hero_order": 126,
+      "hero_name": "Suyou, the Mask of the Immortal",
+      "hero_alias": "the Mask of the Immortal",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "specialties": [
+        "Chase",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "21 September 2024"
+    },
+    {
+      "hero_order": 127,
+      "hero_name": "Lukas, the Beast of Light",
+      "hero_alias": "the Beast of Light",
+      "roles": [
+        "Fighter"
+      ],
+      "specialties": [
+        "Regen",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "EXP Lane",
+        "Jungle"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "21 December 2024"
+    },
+    {
+      "hero_order": 128,
+      "hero_name": "Kalea, the Surging Wave",
+      "hero_alias": "the Surging Wave",
+      "roles": [
+        "Support",
+        "Fighter"
+      ],
+      "specialties": [
+        "Control",
+        "Regen"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Vonetis Sea",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "19 March 2025"
+    },
+    {
+      "hero_order": 129,
+      "hero_name": "Zetian, the Celestial Empress",
+      "hero_alias": "the Celestial Empress",
+      "roles": [
+        "Mage"
+      ],
+      "specialties": [
+        "Damage",
+        "Crowd Control"
+      ],
+      "lane_recommendations": [
+        "Mid Lane"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "18 June 2025"
+    },
+    {
+      "hero_order": 130,
+      "hero_name": "Obsidia, the Sovereign of Dark's End",
+      "hero_alias": "the Sovereign of Dark's End",
+      "roles": [
+        "Marksman"
+      ],
+      "specialties": [
+        "Finisher",
+        "Damage"
+      ],
+      "lane_recommendations": [
+        "Gold Lane"
+      ],
+      "region_of_origin": "Abyss",
+      "prices": [
+        "32000 Battle Points",
+        "499 Diamonds"
+      ],
+      "release_date": "17 September 2025"
+    },
+    {
+      "hero_order": 131,
+      "hero_name": "Sora, the Shifting Cloud",
+      "hero_alias": "the Shifting Cloud",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "specialties": [
+        "Charge",
+        "Burst"
+      ],
+      "lane_recommendations": [
+        "EXP Lane"
+      ],
+      "region_of_origin": "Agelta Drylands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "18 December 2025"
+    },
+    {
+      "hero_order": 132,
+      "hero_name": "Marcel, the Soul Photographer",
+      "hero_alias": "the Soul Photographer",
+      "roles": [
+        "Support"
+      ],
+      "specialties": [
+        "Crowd Control",
+        "Support"
+      ],
+      "lane_recommendations": [
+        "Roaming"
+      ],
+      "region_of_origin": "Moniyan Empire",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "11 March 2026"
+    },
+    {
+      "hero_order": 133,
+      "hero_name": "Hirara, the Fallen Scarlet",
+      "hero_alias": "the Fallen Scarlet",
+      "roles": [
+        "Assassin"
+      ],
+      "specialties": [
+        "Chase",
+        "Finisher"
+      ],
+      "lane_recommendations": [
+        "Jungle"
+      ],
+      "region_of_origin": "Cadia Riverlands",
+      "prices": [
+        "32000 Battle Points",
+        "599 Diamonds"
+      ],
+      "release_date": "17 June 2026"
+    }
+  ]
+}
