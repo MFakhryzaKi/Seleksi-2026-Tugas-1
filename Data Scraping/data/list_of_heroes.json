@@ -5,7 +5,7 @@
   "heroes": [
     {
       "hero_order": 1,
-      "hero_name": "Miya, the Moonlight Archer",
+      "hero_name": "Miya",
       "hero_alias": "the Moonlight Archer",
       "roles": [
         "Marksman"
@@ -26,7 +26,7 @@
     },
     {
       "hero_order": 2,
-      "hero_name": "Balmond, the Bloody Beast",
+      "hero_name": "Balmond",
       "hero_alias": "the Bloody Beast",
       "roles": [
         "Fighter"
@@ -48,7 +48,7 @@
     },
     {
       "hero_order": 3,
-      "hero_name": "Saber, the Wandering Sword",
+      "hero_name": "Saber",
       "hero_alias": "the Wandering Sword",
       "roles": [
         "Assassin"
@@ -70,7 +70,7 @@
     },
     {
       "hero_order": 4,
-      "hero_name": "Alice, the Queen of Blood",
+      "hero_name": "Alice",
       "hero_alias": "the Queen of Blood",
       "roles": [
         "Tank",
@@ -93,7 +93,7 @@
     },
     {
       "hero_order": 5,
-      "hero_name": "Nana, the Sweet Leonin",
+      "hero_name": "Nana",
       "hero_alias": "the Sweet Leonin",
       "roles": [
         "Mage"
@@ -114,7 +114,7 @@
     },
     {
       "hero_order": 6,
-      "hero_name": "Tigreal, the Warrior of Dawn",
+      "hero_name": "Tigreal",
       "hero_alias": "the Warrior of Dawn",
       "roles": [
         "Tank"
@@ -134,7 +134,7 @@
     },
     {
       "hero_order": 7,
-      "hero_name": "Alucard, the Demon Hunter",
+      "hero_name": "Alucard",
       "hero_alias": "the Demon Hunter",
       "roles": [
         "Fighter",
@@ -156,7 +156,7 @@
     },
     {
       "hero_order": 8,
-      "hero_name": "Karina, the Shadow Blade",
+      "hero_name": "Karina",
       "hero_alias": "the Shadow Blade",
       "roles": [
         "Assassin"
@@ -177,7 +177,7 @@
     },
     {
       "hero_order": 9,
-      "hero_name": "Akai, the Panda Warrior",
+      "hero_name": "Akai",
       "hero_alias": "the Panda Warrior",
       "roles": [
         "Tank"
@@ -198,7 +198,7 @@
     },
     {
       "hero_order": 10,
-      "hero_name": "Franco, the Frozen Warrior",
+      "hero_name": "Franco",
       "hero_alias": "the Frozen Warrior",
       "roles": [
         "Tank"
@@ -219,7 +219,7 @@
     },
     {
       "hero_order": 11,
-      "hero_name": "Bane, the Frozen King",
+      "hero_name": "Bane",
       "hero_alias": "the Frozen King",
       "roles": [
         "Fighter",
@@ -242,7 +242,7 @@
     },
     {
       "hero_order": 12,
-      "hero_name": "Bruno, the Protector",
+      "hero_name": "Bruno",
       "hero_alias": "the Protector",
       "roles": [
         "Marksman"
@@ -263,7 +263,7 @@
     },
     {
       "hero_order": 13,
-      "hero_name": "Clint, the West Justice",
+      "hero_name": "Clint",
       "hero_alias": "the West Justice",
       "roles": [
         "Marksman"
@@ -284,7 +284,7 @@
     },
     {
       "hero_order": 14,
-      "hero_name": "Rafaela, the Wings of Holiness",
+      "hero_name": "Rafaela",
       "hero_alias": "the Wings of Holiness",
       "roles": [
         "Support"
@@ -305,7 +305,7 @@
     },
     {
       "hero_order": 15,
-      "hero_name": "Eudora, the Lightning Weaver",
+      "hero_name": "Eudora",
       "hero_alias": "the Lightning Weaver",
       "roles": [
         "Mage"
@@ -326,7 +326,7 @@
     },
     {
       "hero_order": 16,
-      "hero_name": "Zilong, the Spear of Dragon",
+      "hero_name": "Zilong",
       "hero_alias": "the Spear of Dragon",
       "roles": [
         "Fighter",
@@ -348,7 +348,7 @@
     },
     {
       "hero_order": 17,
-      "hero_name": "Fanny, the Blade Dancer",
+      "hero_name": "Fanny",
       "hero_alias": "the Blade Dancer",
       "roles": [
         "Assassin"
@@ -369,7 +369,7 @@
     },
     {
       "hero_order": 18,
-      "hero_name": "Layla, the Energy Gunner",
+      "hero_name": "Layla",
       "hero_alias": "the Energy Gunner",
       "roles": [
         "Marksman"
@@ -390,7 +390,7 @@
     },
     {
       "hero_order": 19,
-      "hero_name": "Minotaur, the Son of Minos",
+      "hero_name": "Minotaur",
       "hero_alias": "the Son of Minos",
       "roles": [
         "Tank",
@@ -411,7 +411,7 @@
     },
     {
       "hero_order": 20,
-      "hero_name": "Lolita, the Steel Elf",
+      "hero_name": "Lolita",
       "hero_alias": "the Steel Elf",
       "roles": [
         "Support",
@@ -433,7 +433,7 @@
     },
     {
       "hero_order": 21,
-      "hero_name": "Hayabusa, the Crimson Shadow",
+      "hero_name": "Hayabusa",
       "hero_alias": "the Crimson Shadow",
       "roles": [
         "Assassin"
@@ -454,7 +454,7 @@
     },
     {
       "hero_order": 22,
-      "hero_name": "Freya, the Valkyrie",
+      "hero_name": "Freya",
       "hero_alias": "the Valkyrie",
       "roles": [
         "Fighter"
@@ -475,7 +475,7 @@
     },
     {
       "hero_order": 23,
-      "hero_name": "Gord, the Professor of the Mystics",
+      "hero_name": "Gord",
       "hero_alias": "the Professor of the Mystics",
       "roles": [
         "Mage"
@@ -496,7 +496,7 @@
     },
     {
       "hero_order": 24,
-      "hero_name": "Natalia, the Bright Claw",
+      "hero_name": "Natalia",
       "hero_alias": "the Bright Claw",
       "roles": [
         "Assassin"
@@ -518,7 +518,7 @@
     },
     {
       "hero_order": 25,
-      "hero_name": "Kagura, the Onmyouji Master",
+      "hero_name": "Kagura",
       "hero_alias": "the Onmyouji Master",
       "roles": [
         "Mage"
@@ -539,7 +539,7 @@
     },
     {
       "hero_order": 26,
-      "hero_name": "Chou, the Kung Fu Boy",
+      "hero_name": "Chou",
       "hero_alias": "the Kung Fu Boy",
       "roles": [
         "Fighter"
@@ -561,7 +561,7 @@
     },
     {
       "hero_order": 27,
-      "hero_name": "Sun, the Monkey King",
+      "hero_name": "Sun",
       "hero_alias": "the Monkey King",
       "roles": [
         "Fighter"
@@ -583,7 +583,7 @@
     },
     {
       "hero_order": 28,
-      "hero_name": "Alpha, the Blade of Enmity",
+      "hero_name": "Alpha",
       "hero_alias": "the Blade of Enmity",
       "roles": [
         "Fighter"
@@ -605,7 +605,7 @@
     },
     {
       "hero_order": 29,
-      "hero_name": "Ruby, the Little Red Hood",
+      "hero_name": "Ruby",
       "hero_alias": "the Little Red Hood",
       "roles": [
         "Fighter"
@@ -626,7 +626,7 @@
     },
     {
       "hero_order": 30,
-      "hero_name": "Yi Sun-shin, the Paenlong Legend",
+      "hero_name": "Yi Sun-shin",
       "hero_alias": "the Paenlong Legend",
       "roles": [
         "Assassin",
@@ -648,7 +648,7 @@
     },
     {
       "hero_order": 31,
-      "hero_name": "Moskov, the Spear of Quiescence",
+      "hero_name": "Moskov",
       "hero_alias": "the Spear of Quiescence",
       "roles": [
         "Marksman"
@@ -669,7 +669,7 @@
     },
     {
       "hero_order": 32,
-      "hero_name": "Johnson, the Wild Engine",
+      "hero_name": "Johnson",
       "hero_alias": "the Wild Engine",
       "roles": [
         "Tank",
@@ -691,7 +691,7 @@
     },
     {
       "hero_order": 33,
-      "hero_name": "Cyclops, the Starsoul Magician",
+      "hero_name": "Cyclops",
       "hero_alias": "the Starsoul Magician",
       "roles": [
         "Mage"
@@ -712,7 +712,7 @@
     },
     {
       "hero_order": 34,
-      "hero_name": "Estes, the Moon Elf King",
+      "hero_name": "Estes",
       "hero_alias": "the Moon Elf King",
       "roles": [
         "Support"
@@ -733,7 +733,7 @@
     },
     {
       "hero_order": 35,
-      "hero_name": "Hilda, the Power of Megalith",
+      "hero_name": "Hilda",
       "hero_alias": "the Power of Megalith",
       "roles": [
         "Fighter",
@@ -756,7 +756,7 @@
     },
     {
       "hero_order": 36,
-      "hero_name": "Aurora, the Maiden of the Glacier",
+      "hero_name": "Aurora",
       "hero_alias": "the Maiden of the Glacier",
       "roles": [
         "Mage"
@@ -777,7 +777,7 @@
     },
     {
       "hero_order": 37,
-      "hero_name": "Lapu-Lapu, the Courageous Blade",
+      "hero_name": "Lapu-Lapu",
       "hero_alias": "the Courageous Blade",
       "roles": [
         "Fighter"
@@ -798,7 +798,7 @@
     },
     {
       "hero_order": 38,
-      "hero_name": "Vexana, the Shimmer of Hope",
+      "hero_name": "Vexana",
       "hero_alias": "the Shimmer of Hope",
       "roles": [
         "Mage"
@@ -819,7 +819,7 @@
     },
     {
       "hero_order": 39,
-      "hero_name": "Roger, the Dire Wolf Hunter",
+      "hero_name": "Roger",
       "hero_alias": "the Dire Wolf Hunter",
       "roles": [
         "Fighter",
@@ -841,7 +841,7 @@
     },
     {
       "hero_order": 40,
-      "hero_name": "Karrie, the Lost Star",
+      "hero_name": "Karrie",
       "hero_alias": "the Lost Star",
       "roles": [
         "Marksman"
@@ -862,7 +862,7 @@
     },
     {
       "hero_order": 41,
-      "hero_name": "Gatotkaca, the Mighty Legend",
+      "hero_name": "Gatotkaca",
       "hero_alias": "the Mighty Legend",
       "roles": [
         "Tank",
@@ -885,7 +885,7 @@
     },
     {
       "hero_order": 42,
-      "hero_name": "Harley, the Mage Genius",
+      "hero_name": "Harley",
       "hero_alias": "the Mage Genius",
       "roles": [
         "Assassin",
@@ -908,7 +908,7 @@
     },
     {
       "hero_order": 43,
-      "hero_name": "Irithel, the Jungle Heart",
+      "hero_name": "Irithel",
       "hero_alias": "the Jungle Heart",
       "roles": [
         "Marksman"
@@ -929,7 +929,7 @@
     },
     {
       "hero_order": 44,
-      "hero_name": "Grock, the Fortress Titan",
+      "hero_name": "Grock",
       "hero_alias": "the Fortress Titan",
       "roles": [
         "Tank",
@@ -951,7 +951,7 @@
     },
     {
       "hero_order": 45,
-      "hero_name": "Argus, the Dark Angel",
+      "hero_name": "Argus",
       "hero_alias": "the Dark Angel",
       "roles": [
         "Fighter"
@@ -972,7 +972,7 @@
     },
     {
       "hero_order": 46,
-      "hero_name": "Odette, the Swan Princess",
+      "hero_name": "Odette",
       "hero_alias": "the Swan Princess",
       "roles": [
         "Mage"
@@ -993,7 +993,7 @@
     },
     {
       "hero_order": 47,
-      "hero_name": "Lancelot, the Blade of Roses",
+      "hero_name": "Lancelot",
       "hero_alias": "the Blade of Roses",
       "roles": [
         "Assassin"
@@ -1014,7 +1014,7 @@
     },
     {
       "hero_order": 48,
-      "hero_name": "Diggie, the Timekeeper",
+      "hero_name": "Diggie",
       "hero_alias": "the Timekeeper",
       "roles": [
         "Support"
@@ -1035,7 +1035,7 @@
     },
     {
       "hero_order": 49,
-      "hero_name": "Hylos, the Grand Warden",
+      "hero_name": "Hylos",
       "hero_alias": "the Grand Warden",
       "roles": [
         "Tank"
@@ -1056,7 +1056,7 @@
     },
     {
       "hero_order": 50,
-      "hero_name": "Zhask, the King of Swarms",
+      "hero_name": "Zhask",
       "hero_alias": "the King of Swarms",
       "roles": [
         "Mage"
@@ -1077,7 +1077,7 @@
     },
     {
       "hero_order": 51,
-      "hero_name": "Helcurt, the Shadowbringer",
+      "hero_name": "Helcurt",
       "hero_alias": "the Shadowbringer",
       "roles": [
         "Assassin"
@@ -1099,7 +1099,7 @@
     },
     {
       "hero_order": 52,
-      "hero_name": "Pharsa, the Wings of Vengeance",
+      "hero_name": "Pharsa",
       "hero_alias": "the Wings of Vengeance",
       "roles": [
         "Mage"
@@ -1120,7 +1120,7 @@
     },
     {
       "hero_order": 53,
-      "hero_name": "Lesley, the Deadly Sniper",
+      "hero_name": "Lesley",
       "hero_alias": "the Deadly Sniper",
       "roles": [
         "Marksman",
@@ -1142,7 +1142,7 @@
     },
     {
       "hero_order": 54,
-      "hero_name": "Jawhead, the Steel Sweetheart",
+      "hero_name": "Jawhead",
       "hero_alias": "the Steel Sweetheart",
       "roles": [
         "Fighter"
@@ -1164,7 +1164,7 @@
     },
     {
       "hero_order": 55,
-      "hero_name": "Angela, the Bunnylove",
+      "hero_name": "Angela",
       "hero_alias": "the Bunnylove",
       "roles": [
         "Support"
@@ -1185,7 +1185,7 @@
     },
     {
       "hero_order": 56,
-      "hero_name": "Gusion, the Holy Blade",
+      "hero_name": "Gusion",
       "hero_alias": "the Holy Blade",
       "roles": [
         "Assassin"
@@ -1207,7 +1207,7 @@
     },
     {
       "hero_order": 57,
-      "hero_name": "Valir, the Son of Flames",
+      "hero_name": "Valir",
       "hero_alias": "the Son of Flames",
       "roles": [
         "Mage"
@@ -1228,7 +1228,7 @@
     },
     {
       "hero_order": 58,
-      "hero_name": "Martis, the Ashura King",
+      "hero_name": "Martis",
       "hero_alias": "the Ashura King",
       "roles": [
         "Fighter"
@@ -1250,7 +1250,7 @@
     },
     {
       "hero_order": 59,
-      "hero_name": "Uranus, the Aesthereal Defender",
+      "hero_name": "Uranus",
       "hero_alias": "the Aesthereal Defender",
       "roles": [
         "Tank"
@@ -1270,7 +1270,7 @@
     },
     {
       "hero_order": 60,
-      "hero_name": "Hanabi, the Scarlet Flower",
+      "hero_name": "Hanabi",
       "hero_alias": "the Scarlet Flower",
       "roles": [
         "Marksman"
@@ -1291,7 +1291,7 @@
     },
     {
       "hero_order": 61,
-      "hero_name": "Chang'e, the Moon Palace Immortal",
+      "hero_name": "Chang'e",
       "hero_alias": "the Moon Palace Immortal",
       "roles": [
         "Mage"
@@ -1313,7 +1313,7 @@
     },
     {
       "hero_order": 62,
-      "hero_name": "Kaja, the Nazar King",
+      "hero_name": "Kaja",
       "hero_alias": "the Nazar King",
       "roles": [
         "Support",
@@ -1335,7 +1335,7 @@
     },
     {
       "hero_order": 63,
-      "hero_name": "Selena, the Abyssal Witch",
+      "hero_name": "Selena",
       "hero_alias": "the Abyssal Witch",
       "roles": [
         "Assassin",
@@ -1358,7 +1358,7 @@
     },
     {
       "hero_order": 64,
-      "hero_name": "Aldous, the Soul Contractor",
+      "hero_name": "Aldous",
       "hero_alias": "the Soul Contractor",
       "roles": [
         "Fighter"
@@ -1379,7 +1379,7 @@
     },
     {
       "hero_order": 65,
-      "hero_name": "Claude, the Master Thief",
+      "hero_name": "Claude",
       "hero_alias": "the Master Thief",
       "roles": [
         "Marksman"
@@ -1400,7 +1400,7 @@
     },
     {
       "hero_order": 66,
-      "hero_name": "Vale, the Windtalker",
+      "hero_name": "Vale",
       "hero_alias": "the Windtalker",
       "roles": [
         "Mage"
@@ -1421,7 +1421,7 @@
     },
     {
       "hero_order": 67,
-      "hero_name": "Leomord, the Sworn Sword",
+      "hero_name": "Leomord",
       "hero_alias": "the Sworn Sword",
       "roles": [
         "Fighter"
@@ -1442,7 +1442,7 @@
     },
     {
       "hero_order": 68,
-      "hero_name": "Lunox, the Twilight Goddess",
+      "hero_name": "Lunox",
       "hero_alias": "the Twilight Goddess",
       "roles": [
         "Mage"
@@ -1463,7 +1463,7 @@
     },
     {
       "hero_order": 69,
-      "hero_name": "Hanzo, the Akuma Ninja",
+      "hero_name": "Hanzo",
       "hero_alias": "the Akuma Ninja",
       "roles": [
         "Assassin"
@@ -1484,7 +1484,7 @@
     },
     {
       "hero_order": 70,
-      "hero_name": "Belerick, the Guard of Nature",
+      "hero_name": "Belerick",
       "hero_alias": "the Guard of Nature",
       "roles": [
         "Tank"
@@ -1505,7 +1505,7 @@
     },
     {
       "hero_order": 71,
-      "hero_name": "Kimmy, the Hoverjet Outrider",
+      "hero_name": "Kimmy",
       "hero_alias": "the Hoverjet Outrider",
       "roles": [
         "Marksman",
@@ -1528,7 +1528,7 @@
     },
     {
       "hero_order": 72,
-      "hero_name": "Thamuz, the Lord Lava",
+      "hero_name": "Thamuz",
       "hero_alias": "the Lord Lava",
       "roles": [
         "Fighter"
@@ -1549,7 +1549,7 @@
     },
     {
       "hero_order": 73,
-      "hero_name": "Harith, the Time Traveler",
+      "hero_name": "Harith",
       "hero_alias": "the Time Traveler",
       "roles": [
         "Mage"
@@ -1571,7 +1571,7 @@
     },
     {
       "hero_order": 74,
-      "hero_name": "Minsitthar, the Courageous Warrior",
+      "hero_name": "Minsitthar",
       "hero_alias": "the Courageous Warrior",
       "roles": [
         "Fighter"
@@ -1593,7 +1593,7 @@
     },
     {
       "hero_order": 75,
-      "hero_name": "Kadita, the Ocean Goddess",
+      "hero_name": "Kadita",
       "hero_alias": "the Ocean Goddess",
       "roles": [
         "Mage",
@@ -1615,7 +1615,7 @@
     },
     {
       "hero_order": 76,
-      "hero_name": "Faramis, the Soul Binder",
+      "hero_name": "Faramis",
       "hero_alias": "the Soul Binder",
       "roles": [
         "Support",
@@ -1638,7 +1638,7 @@
     },
     {
       "hero_order": 77,
-      "hero_name": "Badang, the Tribal Warrior",
+      "hero_name": "Badang",
       "hero_alias": "the Tribal Warrior",
       "roles": [
         "Fighter"
@@ -1660,7 +1660,7 @@
     },
     {
       "hero_order": 78,
-      "hero_name": "Khufra, the Desert Tyrant",
+      "hero_name": "Khufra",
       "hero_alias": "the Desert Tyrant",
       "roles": [
         "Tank"
@@ -1681,7 +1681,7 @@
     },
     {
       "hero_order": 79,
-      "hero_name": "Granger, the Death Chanter",
+      "hero_name": "Granger",
       "hero_alias": "the Death Chanter",
       "roles": [
         "Marksman"
@@ -1702,7 +1702,7 @@
     },
     {
       "hero_order": 80,
-      "hero_name": "Guinevere, the Ms. Violet",
+      "hero_name": "Guinevere",
       "hero_alias": "the Ms. Violet",
       "roles": [
         "Fighter"
@@ -1723,7 +1723,7 @@
     },
     {
       "hero_order": 81,
-      "hero_name": "Esmeralda, the Astrologer",
+      "hero_name": "Esmeralda",
       "hero_alias": "the Astrologer",
       "roles": [
         "Tank",
@@ -1745,7 +1745,7 @@
     },
     {
       "hero_order": 82,
-      "hero_name": "Terizla, the Executioner",
+      "hero_name": "Terizla",
       "hero_alias": "the Executioner",
       "roles": [
         "Fighter",
@@ -1767,7 +1767,7 @@
     },
     {
       "hero_order": 83,
-      "hero_name": "X.Borg, the Firaga Armor",
+      "hero_name": "X.Borg",
       "hero_alias": "the Firaga Armor",
       "roles": [
         "Fighter"
@@ -1788,7 +1788,7 @@
     },
     {
       "hero_order": 84,
-      "hero_name": "Ling, the Cyan Finch",
+      "hero_name": "Ling",
       "hero_alias": "the Cyan Finch",
       "roles": [
         "Assassin"
@@ -1809,7 +1809,7 @@
     },
     {
       "hero_order": 85,
-      "hero_name": "Dyrroth, the Prince of the Abyss",
+      "hero_name": "Dyrroth",
       "hero_alias": "the Prince of the Abyss",
       "roles": [
         "Fighter"
@@ -1831,7 +1831,7 @@
     },
     {
       "hero_order": 86,
-      "hero_name": "Lylia, the Little Witch",
+      "hero_name": "Lylia",
       "hero_alias": "the Little Witch",
       "roles": [
         "Mage"
@@ -1852,7 +1852,7 @@
     },
     {
       "hero_order": 87,
-      "hero_name": "Baxia, the Mystic Tortoise",
+      "hero_name": "Baxia",
       "hero_alias": "the Mystic Tortoise",
       "roles": [
         "Tank"
@@ -1874,7 +1874,7 @@
     },
     {
       "hero_order": 88,
-      "hero_name": "Masha, the Wild-oats Fist",
+      "hero_name": "Masha",
       "hero_alias": "the Wild-oats Fist",
       "roles": [
         "Fighter",
@@ -1896,7 +1896,7 @@
     },
     {
       "hero_order": 89,
-      "hero_name": "Wanwan, the Agile Tiger",
+      "hero_name": "Wanwan",
       "hero_alias": "the Agile Tiger",
       "roles": [
         "Marksman"
@@ -1917,7 +1917,7 @@
     },
     {
       "hero_order": 90,
-      "hero_name": "Silvanna, the Imperial Knightess",
+      "hero_name": "Silvanna",
       "hero_alias": "the Imperial Knightess",
       "roles": [
         "Fighter"
@@ -1938,7 +1938,7 @@
     },
     {
       "hero_order": 91,
-      "hero_name": "Cecilion, the Embrace of Night",
+      "hero_name": "Cecilion",
       "hero_alias": "the Embrace of Night",
       "roles": [
         "Mage"
@@ -1959,7 +1959,7 @@
     },
     {
       "hero_order": 92,
-      "hero_name": "Carmilla, the Shadow of Twilight",
+      "hero_name": "Carmilla",
       "hero_alias": "the Shadow of Twilight",
       "roles": [
         "Support",
@@ -1981,7 +1981,7 @@
     },
     {
       "hero_order": 93,
-      "hero_name": "Atlas, the Ocean Gladiator",
+      "hero_name": "Atlas",
       "hero_alias": "the Ocean Gladiator",
       "roles": [
         "Tank"
@@ -2002,7 +2002,7 @@
     },
     {
       "hero_order": 94,
-      "hero_name": "Popol and Kupa, the Icefield Companions",
+      "hero_name": "Popol and Kupa",
       "hero_alias": "the Icefield Companions",
       "roles": [
         "Marksman"
@@ -2024,7 +2024,7 @@
     },
     {
       "hero_order": 95,
-      "hero_name": "Yu Zhong, the Black Dragon",
+      "hero_name": "Yu Zhong",
       "hero_alias": "the Black Dragon",
       "roles": [
         "Fighter"
@@ -2045,7 +2045,7 @@
     },
     {
       "hero_order": 96,
-      "hero_name": "Luo Yi, the Yin-yang Geomancer",
+      "hero_name": "Luo Yi",
       "hero_alias": "the Yin-yang Geomancer",
       "roles": [
         "Mage"
@@ -2066,7 +2066,7 @@
     },
     {
       "hero_order": 97,
-      "hero_name": "Benedetta, the Shadow Ranger",
+      "hero_name": "Benedetta",
       "hero_alias": "the Shadow Ranger",
       "roles": [
         "Assassin",
@@ -2088,7 +2088,7 @@
     },
     {
       "hero_order": 98,
-      "hero_name": "Khaleed, the Desert Scimitar",
+      "hero_name": "Khaleed",
       "hero_alias": "the Desert Scimitar",
       "roles": [
         "Fighter"
@@ -2110,7 +2110,7 @@
     },
     {
       "hero_order": 99,
-      "hero_name": "Barats, the Dino Rider",
+      "hero_name": "Barats",
       "hero_alias": "the Dino Rider",
       "roles": [
         "Tank",
@@ -2132,7 +2132,7 @@
     },
     {
       "hero_order": 100,
-      "hero_name": "Brody, the Lone Star",
+      "hero_name": "Brody",
       "hero_alias": "the Lone Star",
       "roles": [
         "Marksman"
@@ -2153,7 +2153,7 @@
     },
     {
       "hero_order": 101,
-      "hero_name": "Yve, the Astrowarden",
+      "hero_name": "Yve",
       "hero_alias": "the Astrowarden",
       "roles": [
         "Mage"
@@ -2174,7 +2174,7 @@
     },
     {
       "hero_order": 102,
-      "hero_name": "Mathilda, the Swift Plume",
+      "hero_name": "Mathilda",
       "hero_alias": "the Swift Plume",
       "roles": [
         "Support",
@@ -2196,7 +2196,7 @@
     },
     {
       "hero_order": 103,
-      "hero_name": "Paquito, the Heavenly Fist",
+      "hero_name": "Paquito",
       "hero_alias": "the Heavenly Fist",
       "roles": [
         "Fighter",
@@ -2218,7 +2218,7 @@
     },
     {
       "hero_order": 104,
-      "hero_name": "Gloo, the Swamp Spirits",
+      "hero_name": "Gloo",
       "hero_alias": "the Swamp Spirits",
       "roles": [
         "Tank"
@@ -2240,7 +2240,7 @@
     },
     {
       "hero_order": 105,
-      "hero_name": "Beatrix, the Dawnbreak Soldier",
+      "hero_name": "Beatrix",
       "hero_alias": "the Dawnbreak Soldier",
       "roles": [
         "Marksman"
@@ -2261,7 +2261,7 @@
     },
     {
       "hero_order": 106,
-      "hero_name": "Phoveus, the Chains of Sin",
+      "hero_name": "Phoveus",
       "hero_alias": "the Chains of Sin",
       "roles": [
         "Fighter"
@@ -2282,7 +2282,7 @@
     },
     {
       "hero_order": 107,
-      "hero_name": "Natan, the Spacetime Walker",
+      "hero_name": "Natan",
       "hero_alias": "the Spacetime Walker",
       "roles": [
         "Marksman"
@@ -2303,7 +2303,7 @@
     },
     {
       "hero_order": 108,
-      "hero_name": "Aulus, the Warrior of Ferocity",
+      "hero_name": "Aulus",
       "hero_alias": "the Warrior of Ferocity",
       "roles": [
         "Fighter"
@@ -2324,7 +2324,7 @@
     },
     {
       "hero_order": 109,
-      "hero_name": "Aamon, the Duke of Shards",
+      "hero_name": "Aamon",
       "hero_alias": "the Duke of Shards",
       "roles": [
         "Assassin"
@@ -2345,7 +2345,7 @@
     },
     {
       "hero_order": 110,
-      "hero_name": "Valentina, the Prophetess of the Night",
+      "hero_name": "Valentina",
       "hero_alias": "the Prophetess of the Night",
       "roles": [
         "Mage"
@@ -2366,7 +2366,7 @@
     },
     {
       "hero_order": 111,
-      "hero_name": "Edith, the Ancient Guard",
+      "hero_name": "Edith",
       "hero_alias": "the Ancient Guard",
       "roles": [
         "Tank",
@@ -2389,7 +2389,7 @@
     },
     {
       "hero_order": 112,
-      "hero_name": "Floryn, the Budding Hope",
+      "hero_name": "Floryn",
       "hero_alias": "the Budding Hope",
       "roles": [
         "Support"
@@ -2410,7 +2410,7 @@
     },
     {
       "hero_order": 113,
-      "hero_name": "Yin, the Martial Genius",
+      "hero_name": "Yin",
       "hero_alias": "the Martial Genius",
       "roles": [
         "Fighter",
@@ -2433,7 +2433,7 @@
     },
     {
       "hero_order": 114,
-      "hero_name": "Melissa, the Cursed Needle",
+      "hero_name": "Melissa",
       "hero_alias": "the Cursed Needle",
       "roles": [
         "Marksman"
@@ -2454,7 +2454,7 @@
     },
     {
       "hero_order": 115,
-      "hero_name": "Xavier, the Defier of Light",
+      "hero_name": "Xavier",
       "hero_alias": "the Defier of Light",
       "roles": [
         "Mage"
@@ -2475,7 +2475,7 @@
     },
     {
       "hero_order": 116,
-      "hero_name": "Julian, the Scarlet Raven",
+      "hero_name": "Julian",
       "hero_alias": "the Scarlet Raven",
       "roles": [
         "Assassin",
@@ -2498,7 +2498,7 @@
     },
     {
       "hero_order": 117,
-      "hero_name": "Fredrinn, the Rogue Appraiser",
+      "hero_name": "Fredrinn",
       "hero_alias": "the Rogue Appraiser",
       "roles": [
         "Fighter",
@@ -2520,7 +2520,7 @@
     },
     {
       "hero_order": 118,
-      "hero_name": "Joy, the Flash of Miracle",
+      "hero_name": "Joy",
       "hero_alias": "the Flash of Miracle",
       "roles": [
         "Assassin"
@@ -2541,7 +2541,7 @@
     },
     {
       "hero_order": 119,
-      "hero_name": "Novaria, the Star Rebel",
+      "hero_name": "Novaria",
       "hero_alias": "the Star Rebel",
       "roles": [
         "Mage"
@@ -2562,7 +2562,7 @@
     },
     {
       "hero_order": 120,
-      "hero_name": "Arlott, the Lone Lancer",
+      "hero_name": "Arlott",
       "hero_alias": "the Lone Lancer",
       "roles": [
         "Fighter",
@@ -2584,7 +2584,7 @@
     },
     {
       "hero_order": 121,
-      "hero_name": "Ixia, the Arclight Outlaw",
+      "hero_name": "Ixia",
       "hero_alias": "the Arclight Outlaw",
       "roles": [
         "Marksman"
@@ -2605,7 +2605,7 @@
     },
     {
       "hero_order": 122,
-      "hero_name": "Nolan, the Cosmic Wayfinder",
+      "hero_name": "Nolan",
       "hero_alias": "the Cosmic Wayfinder",
       "roles": [
         "Assassin"
@@ -2626,7 +2626,7 @@
     },
     {
       "hero_order": 123,
-      "hero_name": "Cici, the Buoyant Performer",
+      "hero_name": "Cici",
       "hero_alias": "the Buoyant Performer",
       "roles": [
         "Fighter"
@@ -2647,7 +2647,7 @@
     },
     {
       "hero_order": 124,
-      "hero_name": "Chip, the Phase Technician",
+      "hero_name": "Chip",
       "hero_alias": "the Phase Technician",
       "roles": [
         "Support",
@@ -2669,7 +2669,7 @@
     },
     {
       "hero_order": 125,
-      "hero_name": "Zhuxin, the Beacon of Spirits",
+      "hero_name": "Zhuxin",
       "hero_alias": "the Beacon of Spirits",
       "roles": [
         "Mage"
@@ -2690,7 +2690,7 @@
     },
     {
       "hero_order": 126,
-      "hero_name": "Suyou, the Mask of the Immortal",
+      "hero_name": "Suyou",
       "hero_alias": "the Mask of the Immortal",
       "roles": [
         "Assassin",
@@ -2712,7 +2712,7 @@
     },
     {
       "hero_order": 127,
-      "hero_name": "Lukas, the Beast of Light",
+      "hero_name": "Lukas",
       "hero_alias": "the Beast of Light",
       "roles": [
         "Fighter"
@@ -2734,7 +2734,7 @@
     },
     {
       "hero_order": 128,
-      "hero_name": "Kalea, the Surging Wave",
+      "hero_name": "Kalea",
       "hero_alias": "the Surging Wave",
       "roles": [
         "Support",
@@ -2756,7 +2756,7 @@
     },
     {
       "hero_order": 129,
-      "hero_name": "Zetian, the Celestial Empress",
+      "hero_name": "Zetian",
       "hero_alias": "the Celestial Empress",
       "roles": [
         "Mage"
@@ -2777,7 +2777,7 @@
     },
     {
       "hero_order": 130,
-      "hero_name": "Obsidia, the Sovereign of Dark's End",
+      "hero_name": "Obsidia",
       "hero_alias": "the Sovereign of Dark's End",
       "roles": [
         "Marksman"
@@ -2798,7 +2798,7 @@
     },
     {
       "hero_order": 131,
-      "hero_name": "Sora, the Shifting Cloud",
+      "hero_name": "Sora",
       "hero_alias": "the Shifting Cloud",
       "roles": [
         "Fighter",
@@ -2820,7 +2820,7 @@
     },
     {
       "hero_order": 132,
-      "hero_name": "Marcel, the Soul Photographer",
+      "hero_name": "Marcel",
       "hero_alias": "the Soul Photographer",
       "roles": [
         "Support"
@@ -2841,7 +2841,7 @@
     },
     {
       "hero_order": 133,
-      "hero_name": "Hirara, the Fallen Scarlet",
+      "hero_name": "Hirara",
       "hero_alias": "the Fallen Scarlet",
       "roles": [
         "Assassin"

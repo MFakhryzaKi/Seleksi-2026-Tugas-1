@@ -214,7 +214,7 @@ def parse_hero_rows(html: str) -> list[dict[str, object]]:
 		heroes.append(
 			{
 				"hero_order": int(normalize_text(order_cell.get_text(" ", strip=True))),
-				"hero_name": hero_name,
+				"hero_name": hero_name.split(",")[0],
 				"hero_alias": normalize_text(hero_name.split(",", 1)[1]),
 				# "hero_link": f"/wiki/{hero_page_title.replace(' ', '_')}",
 				# "hero_icon": icon_image.get("alt") if icon_image else None,
@@ -255,7 +255,8 @@ def main() -> None:
 	print("parsing hero stats...")
 	for hero in heroes:
 		# page_title = normalize_page_title(hero.get("hero_link") if isinstance(hero.get("hero_link"), str) else None)
-		link = f"/wiki/{normalize_text(hero.get("hero_name").split(",", 1)[0]).replace(' ', '_')}"
+		hero_page_name = normalize_text(hero["hero_name"].split(",", 1)[0])
+		link = f"/wiki/{hero_page_name.replace(' ', '_')}"
 		page_title = normalize_page_title(link)
 		if not page_title:
 			continue
